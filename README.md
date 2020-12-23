@@ -1,4 +1,4 @@
-# react-layout 
+# react-layout
 Bootstrap-React layout project
 
 ## Design 
@@ -13,3 +13,4 @@ Project created with
 ## Dependencies
 2. Bootstrap React Bootstrap 
 ```yarn add bootstrap react-bootstrap```
+
