@@ -1,7 +1,12 @@
 # react-layout 
 Bootstrap-React layout project
 
+## Design 
 ![Layout](assets/layout.jpg)
+
+## Demo CodeSandbox 
+![react-layout-final](assets/react-layout-final.jpg)
+-[CodeSandbox]()
 
 ## Installation
 Project created with 
