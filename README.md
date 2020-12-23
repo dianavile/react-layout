@@ -4,6 +4,9 @@ Bootstrap-React layout project
 ## Design 
 ![Layout](assets/layout.jpg)
 
+## Demo 
+![React Layout Final](assets/react-layout-final.jpg)
+
 ## Installation
 Project created with 
 1. Create React App (CRA)
