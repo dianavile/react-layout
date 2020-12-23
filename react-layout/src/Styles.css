@@ -1,0 +1,62 @@
+.containerFluidLayout > * {
+    height: 500px;
+}
+
+.row1Side1 {
+    height: 220px;
+}
+.row2Side1 {
+    height: 280px;
+}
+.row2Side2 {
+    height: 280px;
+}
+.BreadcrumbLayout {
+    background-color: #bde920;
+    border: 5px solid black;
+}
+
+
+.CardLayout {
+    background-color: #a3deec;
+    border: 5px solid black;
+}
+
+.Datepicker {
+    background-color: #c18561;
+    border: 5px solid black;
+}
+
+.DropdownLayout {
+    background-color: #ad53ad;
+    border: 5px solid black;
+}
+
+.FormLayout {
+    height: 500px;
+    background-color: #f2e7b9;
+    border: 5px solid black;
+}
+
+.CarouselLayout {
+    background-color: #ffcf0b;
+    border: 5px solid black;
+    height: 250px;
+}
+
+.CheckboxLayout {
+    background-color: #d0c6e9;
+    border: 5px solid black;
+    height: 250px;
+}
+
+.carousel-inner .carousel-item img {
+    object-fit: contain;
+    width: 100px;
+    height: 100px;
+}
+
+h1 {
+    font-size: 20px;
+    text-align: center;
+}

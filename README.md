@@ -1,4 +1,4 @@
-# react-layoutç# react-layout 
+# react-layout 
 Bootstrap-React layout project
 
 ![Layout](assets/layout.jpg)
