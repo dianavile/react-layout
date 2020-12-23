@@ -4,9 +4,6 @@ Bootstrap-React layout project
 ## Design 
 ![Layout](assets/layout.jpg)
 
-## Demo CodeSandbox 
--[CodeSandbox]()
-
 ## Installation
 Project created with 
 1. Create React App (CRA)
