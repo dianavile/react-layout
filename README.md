@@ -5,7 +5,7 @@ Bootstrap-React layout project
 ![Layout](assets/layout.jpg)
 
 ## Demo 
-![React Layout Final](assets/react-layout-final.jpg)
+![React Layout Final](https://github.com/dianavile/react-layout/blob/main/assets/react-layout-final.JPG)
 
 ## Installation
 Project created with 
