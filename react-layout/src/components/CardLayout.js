@@ -1,8 +1,8 @@
 import React from 'react';
 
 const CardLayout = () => {
-    return (
-        <figure className="bg-white rounded overflow-hidden">
+  return (
+      <figure className="bg-white rounded overflow-hidden">
         <img
           className="h-48 w-full object-cover"
           src="#"
@@ -13,7 +13,6 @@ const CardLayout = () => {
           <p className="leading-tight text-sm sm:text-base"> </p>
         </figcaption>
       </figure>
-    
     );
 }
 export default CardLayout;

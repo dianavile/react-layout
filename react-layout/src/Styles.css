@@ -11,41 +11,45 @@
 .row2Side2 {
     height: 280px;
 }
+
 .BreadcrumbLayout {
-    background-color: #bde920;
+    background-color: #BDE920;
     border: 5px solid black;
 }
 
+/* .ol.breadcrumb{
+    background-color: #BDE920;
+} */
 
 .CardLayout {
-    background-color: #a3deec;
+    background-color: #A3DEEC;
     border: 5px solid black;
 }
 
 .Datepicker {
-    background-color: #c18561;
+    background-color: #C18561;
     border: 5px solid black;
 }
 
 .DropdownLayout {
-    background-color: #ad53ad;
+    background-color: #AD53AD;
     border: 5px solid black;
 }
 
 .FormLayout {
     height: 500px;
-    background-color: #f2e7b9;
+    background-color: #F2E7B9;
     border: 5px solid black;
 }
 
 .CarouselLayout {
-    background-color: #ffcf0b;
+    background-color: #FFCF0B;
     border: 5px solid black;
     height: 250px;
 }
 
 .CheckboxLayout {
-    background-color: #d0c6e9;
+    background-color: #D0C6E9;
     border: 5px solid black;
     height: 250px;
 }
