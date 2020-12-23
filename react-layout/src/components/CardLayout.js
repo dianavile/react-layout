@@ -1,18 +1,16 @@
 import React from 'react';
+import { Card } from 'react-bootstrap';
 
 const CardLayout = () => {
   return (
-      <figure className="bg-white rounded overflow-hidden">
-        <img
-          className="h-48 w-full object-cover"
-          src="#"
-          alt=""
-        />
-        <figcaption className="px-2 py-2">
-          <h1 className="font-semibold"></h1>
-          <p className="leading-tight text-sm sm:text-base"> </p>
-        </figcaption>
-      </figure>
+    <Card style={{ width: '16rem'}}>
+      	<h2 align="center">Card</h2>
+		<Card.Body>
+			<Card.Title align="center"> Card Title</Card.Title>
+			<Card.Subtitle align="center" className="mb-2 text-muted"> Card Subtitle</Card.Subtitle>
+			<Card.Text align="center"> Card content</Card.Text>
+		</Card.Body>
+	</Card>
     );
 }
 export default CardLayout;
